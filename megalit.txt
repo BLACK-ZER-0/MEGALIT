@@ -1,0 +1,4 @@
+aiohttp>=3.8
+rich>=12.0
+aiohttp-socks>=0.7.1   # optional — needed only for socks4/socks5 proxies
+dnspython>=2.2         # optional — enables NS-record fingerprints
