@@ -1,0 +1,4 @@
+# One vendor name per line — merged into the strong vendor list.
+# Names must match the "vendor" field of your --user-list signatures.
+MyCustomWAF
+MyCompanyCDN

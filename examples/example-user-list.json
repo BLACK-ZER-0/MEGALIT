@@ -1,0 +1,21 @@
+{
+  "vendors": [
+    {
+      "vendor": "MyCustomWAF",
+      "category": "WAF",
+      "matches": [
+        {"field": "header_name", "pattern": "^x-my-waf-", "weight": 50},
+        {"field": "body", "pattern": "Protected by MyCustomWAF", "weight": 60},
+        {"field": "cookie_name", "pattern": "^mywaf_session$", "weight": 40}
+      ]
+    },
+    {
+      "vendor": "MyCompanyCDN",
+      "category": "CDN",
+      "matches": [
+        {"field": "header_value", "pattern": "mycompany-edge", "weight": 45},
+        {"field": "cname", "pattern": "\\.mycompany-cdn\\.net$", "weight": 50}
+      ]
+    }
+  ]
+}
