@@ -1,8 +1,0 @@
-{
-  "cloudflare": "cf-ray",
-  "akamai": "ak_bmsc",
-  "imperva": "incap_ses",
-  "fastly": "fastly-debug",
-  "aws": "x-amz-cf-id"
-}
-
