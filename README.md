@@ -24,8 +24,7 @@
 **Megalit** identifies every protection/intermediary layer in front of a website:
 **WAF, CDN, Load Balancer, Cloud platform, Proxy, Server/Framework (TECH)** —
 using multi-technique fingerprinting against a **365-vendor / 1298-pattern
-signature database** (curated anchored signatures + the fireeye loose-token
-wave + a wafw00f-grade **DEFINITIVE** tier), a behavioural **heuristics
+signature database**, a behavioural **heuristics
 engine** (anti-bot, cache chain, rate-limit, exposure scoring, DDoS-impact
 estimation) and **28 active attack probes** — and renders everything as
 beautiful, fully center-aligned rich tables/panels.
