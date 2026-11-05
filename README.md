@@ -61,9 +61,9 @@ beautiful, fully center-aligned rich tables/panels.
 # 📦 Install
 
 ```bash
-apt update && apt upgrade
-apt install python3
-apt install git
+sudo apt update && sudo apt upgrade
+sudo apt install python3
+sudo apt install git
 https://github.com/BLACK-ZER-0/MEGALIT.git
 cd MEGALIT
 chmod +x *
@@ -76,7 +76,7 @@ python3 megalit.py -h
 ```
  ## For linux one line command 
  ```
- apt update && apt upgrade && apt install python3 && apt install git && https://github.com/BLACK-ZER-0/MEGALIT.git && cd MEGALIT && chmod +x * && pip install -r megalit.txt --break-system-packages && python3 megalit.py -h 
+ sudo apt update && sudo apt upgrade && sudo apt install python3 && sudo apt install git && https://github.com/BLACK-ZER-0/MEGALIT.git && cd MEGALIT && chmod +x * && pip install -r megalit.txt --break-system-packages && python3 megalit.py -h 
  ```
  
 ## 🚀 Usage
