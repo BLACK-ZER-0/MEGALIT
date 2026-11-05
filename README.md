@@ -60,9 +60,9 @@ beautiful, fully center-aligned rich tables/panels.
 # 📦 Install
 
 ```bash
-sudo apt update && sudo apt upgrade
-sudo apt install python3
-sudo apt install git
+apt update && sudo apt upgrade
+apt install python3
+apt install git
 https://github.com/BLACK-ZER-0/MEGALIT.git
 cd MEGALIT
 chmod +x *
