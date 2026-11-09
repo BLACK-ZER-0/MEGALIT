@@ -75,7 +75,7 @@ python3 megalit.py -h
 ```
  ## For linux one line command 
  ```
- sudo apt update && sudo apt upgrade && sudo apt install python3 && sudo apt install git && https://github.com/BLACK-ZER-0/MEGALIT.git && cd MEGALIT && chmod +x * && pip install -r megalit.txt --break-system-packages && python3 megalit.py -h 
+ sudo apt update && sudo apt upgrade && sudo apt install python3 && sudo apt install git && git clone https://github.com/BLACK-ZER-0/MEGALIT.git && cd MEGALIT && chmod +x * && pip install -r megalit.txt --break-system-packages && python3 megalit.py -h 
  ```
  
 ## 🚀 Usage
