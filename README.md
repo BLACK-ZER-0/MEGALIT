@@ -316,7 +316,7 @@ misuse.
 
 * Developer — **BLACK ZERO**
 * 🌐 GitHub: [BLACK-ZER-0](https://github.com/BLACK-ZER-0)
-* 🛡️ OWNER - *BLACK ZERO*
+* 🛡️ OWNER - *BANGLADESH CYBER SQUAD*
 
 ---
 
