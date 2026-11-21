@@ -20,7 +20,7 @@
 
 
 **Advanced async WAF / CDN / Load-Balancer fingerprinting framework** — built with
-`aiohttp` (async core) + `rich` (full colorful terminal UI).
+`aiohttp` (async core) 
 
 **Megalit** identifies every protection/intermediary layer in front of a website:
 **WAF, CDN, Load Balancer, Cloud platform, Proxy, Server/Framework (TECH)** —
