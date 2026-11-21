@@ -1,0 +1,4 @@
+aiohttp
+rich
+aiohttp-socks
+dnspython
