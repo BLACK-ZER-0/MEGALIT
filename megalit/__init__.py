@@ -1,7 +1,4 @@
-"""
-Megalit — Advanced WAF / CDN / LB fingerprinting framework.
-Async aiohttp core + Rich colorful terminal UI. Multi-module architecture.
-"""
+
 
 __title__ = "Megalit"
 __version__ = "1.0.0"
