@@ -9,7 +9,7 @@
   <br>
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3.13.5-blue?logo=python">
+  <img src="https://img.shields.io/badge/Python-3.14.10-blue?logo=python">
    <img src="https://img.shields.io/badge/DNSPython-purple?logo=python&logoColor=white">  
 <img src="https://img.shields.io/badge/Rich-orange?logo=python&logoColor=white"> 
   <img src="https://img.shields.io/badge/Aiohttp-green?logo=python&logoColor=white"> 
